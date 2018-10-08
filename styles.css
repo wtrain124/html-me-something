@@ -1,0 +1,77 @@
+h2.town {
+    font-style: italic;
+}
+
+#bbq {
+    background-image: url("images/bbq.jpg");
+	color:white
+}
+#wave {
+    background-image: url("images/waves.jpeg");
+	color: white;
+}
+
+
+
+body {
+	width: 100%;
+	max-width: 1024px;
+	margin: 0 auto;
+	background-color: lightblue;
+	font-size: 62.5%;
+}
+
+header,
+main,
+footer {
+	background-color: lightblue;
+	font-size: 2.1em;
+}
+
+header {
+	padding: 1.875em 0;
+}
+
+header h1 {
+	text-align: center;
+}
+
+h1, h2 {
+	margin: 0;
+}
+
+h1 {
+	font-size: 2.5em;
+}
+
+main h2 {
+	padding: 0.625em 0 0.625em 0.625em;
+}
+
+section {
+	margin: 1.875em 0;
+}
+
+p {
+    margin-top: 10px;
+    margin-bottom: 50px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+footer {
+	text-align: center;
+	padding: 3em;
+}
+
+ul li {
+	display: inline-block;
+	margin-right: 1em;
+	font-size: 0.80em;
+}
+
+img {
+	width: 100%;
+	max-width: 100%;
+}
+
